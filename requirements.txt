@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+numpy
+scitools-iris
+iris-grib
+netCDF4
+urllib3
